@@ -18,27 +18,18 @@ This project involves the creation of a Bank Analytics Dashboard to visualize an
 
 
 ## Project Workflow:
-+ Data Collection:
+**Data Collection**:
+  Gathered raw data from multiple sources (e.g., databases, spreadsheets).
+  Included metrics like premiums, equity value, profitability, and cost ratios.
+**Data Cleaning**:
+  Handled missing values and outliers.
+  Filtered data by date, city, premium, and stakeholder type.
+**Data Analysis**:
+  Calculated averages (e.g., average age of stakeholders).
+  Analyzed distributions (e.g., shareholding, assets under management).
+  Segmented data by city, tenure, and stakeholder type.
 
-Gathered raw data from multiple sources (e.g., databases, spreadsheets).
-
-Included metrics like premiums, equity value, profitability, and cost ratios.
-
-+ Data Cleaning:
-
-Handled missing values and outliers.
-
-Filtered data by date, city, premium, and stakeholder type.
-
-+ Data Analysis:
-
-Calculated averages (e.g., average age of stakeholders).
-
-Analyzed distributions (e.g., shareholding, assets under management).
-
-Segmented data by city, tenure, and stakeholder type.
-
-+ Data Visualization:
+Data Visualization:
 
 Created interactive dashboards to display key metrics.
 
