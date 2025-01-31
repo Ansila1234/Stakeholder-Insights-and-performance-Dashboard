@@ -19,27 +19,25 @@ This project involves the creation of a Bank Analytics Dashboard to visualize an
 
 ## Project Workflow:
 **Data Collection**:
-  Gathered raw data from multiple sources (e.g., databases, spreadsheets).
-  Included metrics like premiums, equity value, profitability, and cost ratios.
+  + Gathered raw data from multiple sources (e.g., databases, spreadsheets).
+  + Included metrics like premiums, equity value, profitability, and cost ratios.
+
 **Data Cleaning**:
-  Handled missing values and outliers.
-  Filtered data by date, city, premium, and stakeholder type.
+  + Handled missing values and outliers.
+  + Filtered data by date, city, premium, and stakeholder type.
+
 **Data Analysis**:
-  Calculated averages (e.g., average age of stakeholders).
-  Analyzed distributions (e.g., shareholding, assets under management).
-  Segmented data by city, tenure, and stakeholder type.
+  + Calculated averages (e.g., average age of stakeholders).
+  + Analyzed distributions (e.g., shareholding, assets under management).
+  + Segmented data by city, tenure, and stakeholder type.
 
-Data Visualization:
+**Data Visualization**:
+ + Created interactive dashboards to display key metrics.
+ + Used charts and graphs to represent trends (e.g., premiums over time, profitability by city).
 
-Created interactive dashboards to display key metrics.
-
-Used charts and graphs to represent trends (e.g., premiums over time, profitability by city).
-
-+ Insights and Reporting:
-
-Identified trends and actionable insights for stakeholders.
-
-Prepared a final report summarizing findings and recommendations.
+**Insights and Reporting**:
+ + Identified trends and actionable insights for stakeholders.
+ + Prepared a final report summarizing findings and recommendations.
 
 ## Key Insights:
 + Total Premium: 245.9B, with trends analyzed over time.
